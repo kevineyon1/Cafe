@@ -6,11 +6,8 @@ git <template>
         <div class="col-md-6">
           <div class="d-flex h-100">
             <div class="justify-content-center align-self-center">
-              <h2>
-                <strong>Delicious Food Menu,</strong>
-                <br />in Your Gadget
-              </h2>
-              <p>Ayo segera pilih dan pesan makanan favorit Anda</p>
+              <h2>Selamat datang di<strong> Crimson Cafe</strong> <br /></h2>
+              <p>Semoga hari mu selalu minggu</p>
               <router-link class="btn btn-lg btn-success" to="/foods">
                 <b-icon-arrow-right></b-icon-arrow-right>Pesan
               </router-link>
@@ -32,10 +29,8 @@ git <template>
         <div class="col-md-6">
           <div class="d-flex h-100">
             <div class="justify-content-center align-self-center">
-              <h2>
-                <strong>Delicious Food Menu,</strong>
-                <br />in Your Gadget
-              </h2>
+              <h2>Selamat datang di<strong> Crimson Cafe</strong> <br /></h2>
+              <p>Semoga hari mu selalu minggu</p>
               <p>Ayo segera pilih dan pesan makanan favorit Anda</p>
               <button class="btn btn-lg btn-success">
                 <b-icon-arrow-right></b-icon-arrow-right>Pesan
